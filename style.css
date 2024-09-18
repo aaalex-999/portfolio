@@ -10,7 +10,7 @@ body{
   display: block;
   margin: auto;
   min-height: 100vh;
-  background: #191919;
+  background-color: #191919;
   font-family: Courier New, monospace;
 }
 
@@ -60,7 +60,7 @@ body{
 
 .hero-heading{
   color: #fff;
-  font-size: 120px;
+  font-size: 100px;
   text-transform: capitalize;
   font-weight: 300;
 }
