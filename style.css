@@ -75,11 +75,8 @@ body{
   opacity: 0.2;
 }
 
-.home-section.active,
-.project-section.active,
-.about-section.active,
-.contact-section.active{
-  position: relative;
+.home-section.active{
+  position: fixed;
   opacity: 1;
   z-index: 8;
 }
