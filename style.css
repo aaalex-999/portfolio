@@ -46,7 +46,7 @@ body{
   font-size: 20px;
 }
 
-.link.active, a:hover a{
+.link a:hover , .link.active {
   opacity: 1;
 }
 
