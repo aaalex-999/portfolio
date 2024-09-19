@@ -220,6 +220,15 @@ body{
 }
 
 /* timeline */
+.heading{
+  text-align: center;
+  font-size: 60px;
+  color: #fff;
+  text-transform: capitalize;
+  font-weight: 300;
+  margin-bottom: 100px;
+}
+
 .timeline{
   display: block;
   width: 80%;
