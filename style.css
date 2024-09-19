@@ -76,7 +76,6 @@ body{
 }
 
 .home-section.active,
-.project-section.active,
 .about-section.active,
 .contact-section.active{
   position: fixed;
@@ -180,6 +179,10 @@ body{
     opacity: 1;
 }
 
-
+.project-section.active{
+  position: fixed;
+  opacity: 1;
+  z-index: 8;
+}
 
 
