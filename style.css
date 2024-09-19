@@ -141,11 +141,11 @@ body{
 }
 
 .projects-subtitle {
-  font-size: var(--smaller-font-size);
+  font-size: 0.75rem;
 }
 
 .projects-title {
-  font-size: var(--h3-font-size);
+  font-size: 1rem;
   margin-bottom: .75rem;
 }
 
