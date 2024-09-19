@@ -31,7 +31,7 @@ body{
 }
 
 .link a{
-  color: #fff;
+  color: #ffffff;
   opacity: 0.5;
   text-decoration: none;
   text-transform: capitalize;
@@ -59,7 +59,7 @@ body{
 }
 
 .hero-heading{
-  color: #fff;
+  color: #ffffff;
   font-size: 50px;
   text-transform: capitalize;
   font-weight: 300;
@@ -129,7 +129,7 @@ body{
 .project-content{
     position: relative;
     padding: 40px;
-    color: #fff;
+    color: #ffffff;
     transition: .5s;
     opacity: 0;
 }
@@ -159,14 +159,14 @@ body{
     text-transform: capitalize;
     font-size: 18px;
     border: none;
-    background: #000;
-    color: #fff;
+    background: #000000;
+    color: #ffffff;
     cursor: pointer;
 }
 
 .project-btn.live{
     background: none;
-    border: 2px solid #fff;
+    border: 2px solid #ffffff;
 }
 
 .project-card:hover .project-img{
@@ -206,7 +206,7 @@ body{
 }
 
 .about-info{
-  color: #fff;
+  color: #ffffff;
   opacity: 0.6;
   font-size: 20px;
   line-height: 40px;
@@ -234,11 +234,11 @@ body{
   width: 45%;
   padding: 30px;
   border-radius: 10px;
-  color: #fff;
+  color: #ffffff;
   display: block;
   margin: -80px 0;
   position: relative;
-  background: #f00;
+  background: #ff0000;
 }
 
 .card:nth-child(even){
@@ -265,7 +265,7 @@ body{
   transform: translateY(-50%);
   width: 7%;
   height: 2px;
-  background: #fff;
+  background: #ffffff;
   z-index: -1;
 }
 
@@ -289,7 +289,7 @@ body{
   transform: translateY(-50%);
   width: 7%;
   height: 2px;
-  background: #fff;
+  background: #ffffff;
   z-index: -1;
 }
 
@@ -316,7 +316,7 @@ body{
   top: 0;
   width: 0px;
   height: 100%;
-  border: 1px dashed #fff;
+  border: 1px dashed #ffffff;
   z-index: -1;
 }
 
@@ -349,16 +349,16 @@ body{
   width: 100%;
   height: 40px;
   background: rgba(255, 255, 255, 0.2);
-  border: 1px solid #fff;
+  border: 1px solid #ffffff;
   margin-bottom: 30px;
   border-radius: 5px;
   text-transform: capitalize;
-  color: #fff;
+  color: #ffffff;
   padding: 5px 10px;
 }
 
 ::placeholder{
-  color: #fff;
+  color: #ffffff;
 }
 
 #msg{
@@ -369,7 +369,7 @@ body{
 
 .form-submit-btn{
   background: #ff4f4f;
-  color: #fff;
+  color: #ffffff;
   text-transform: capitalize;
   padding: 15px 40px;
   display: block;
