@@ -75,7 +75,7 @@ body{
   opacity: 0.2;
 }
 
-.home-section:active {
+.home-section.active {
   position: fixed;
   opacity: 1;
   z-index: 8;
@@ -177,7 +177,7 @@ body{
     opacity: 1;
 }
 
-.project-section:active {
+.project-section.active {
   position: fixed;
   opacity: 1;
   z-index: 8;
