@@ -343,7 +343,7 @@ body{
 
 /* contact-section */
 .contact-section{
-  position: absolute;
+  position: fixed;
   top: 0;
   opacity: 0;
   transition: 1s;
