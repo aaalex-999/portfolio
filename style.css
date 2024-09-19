@@ -388,5 +388,9 @@ body{
   cursor: pointer;
 }
 
+.contact-section.active {
+  position: absolute;
+  opacity: 1;
+  z-index: 8;
 
 
