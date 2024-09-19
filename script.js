@@ -1,5 +1,3 @@
-alert('JavaScript file successfully linked!');
-
 const links = document.querySelectorAll('.link');
 const sections = document.querySelectorAll('section');
 
