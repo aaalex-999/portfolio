@@ -112,8 +112,10 @@ body{
 }
 
 .project-card{
+  width: 600px
   height: 400px;
   position: relative;
+  overflow: hidden
 }
 
 .project-img{
